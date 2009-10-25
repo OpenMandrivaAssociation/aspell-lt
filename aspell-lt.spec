@@ -1,7 +1,7 @@
 %define _enable_debug_packages %{nil}
 %define debug_package          %{nil}
 
-%define src_ver 1.0-1
+%define src_ver 1.2.1-0
 %define fname aspell6-%{languagecode}
 %define aspell_ver 0.60
 %define languageenglazy Lithuanian
@@ -10,7 +10,7 @@
 
 Summary:       %{languageenglazy} files for aspell
 Name:          aspell-%{languagecode}
-Version:       1.0.1
+Version:       1.2.1
 Release:       %mkrel 7
 Group:         System/Internationalization
 Source:        http://ftp.gnu.org/gnu/aspell/dict/%{languagecode}/%{fname}-%{src_ver}.tar.bz2
