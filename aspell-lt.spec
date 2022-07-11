@@ -10,8 +10,8 @@
 
 Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
-Version:	1.3
-Release:	20
+Version:	1.3.2
+Release:	1
 Group:		System/Internationalization
 License:	Free Software (see Copyright file)
 Url:		http://aspell.net/
